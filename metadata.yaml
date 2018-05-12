@@ -1,0 +1,29 @@
+_repo: Wilmot-and-Tilley_26086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hannay, James
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '31785'
+    url: http://www.gutenberg.org/2009/agents/31785
+description: ''
+gutenberg_issued: '2008-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Brunswick (Canada : Province) -- Politics and government'
+- !lcsh 'Tilley, Samuel Leonard, Sir, 1818-1896'
+- !lcsh 'Wilmot, Lemuel Allan, 1809-1879'
+- !lcc 'F1001'
+- !lcsh 'Canada -- Politics and government -- 19th century'
+title: Wilmot and Tilley
+url: http://www.gutenberg.org/ebooks/26086
