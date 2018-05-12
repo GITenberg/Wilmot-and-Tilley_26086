@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31785'
     url: http://www.gutenberg.org/2009/agents/31785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26086#Wilmot-and-Tilley
 gutenberg_issued: '2008-07-19'
 gutenberg_type: Text
 identifiers:
